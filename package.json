@@ -1,0 +1,17 @@
+{
+  "name": "contact-book",
+  "version": "0.0.0",
+  "dependencies": {
+    "tailwindcss": "^3.4.15",
+    "vue": "^3.2.47",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  }
+}
